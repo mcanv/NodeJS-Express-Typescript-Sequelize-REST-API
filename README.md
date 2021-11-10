@@ -1,6 +1,6 @@
-#Örnek REST Api uygulaması
+# Örnek REST Api uygulaması
 
-####Nodejs & Express & Sequelize(mysql) & Typescript kullanarak oluşturduğum örnek rest api projesi
+#### Nodejs & Express & Sequelize(mysql) & Typescript kullanarak oluşturduğum örnek rest api projesi
 
 Terminal\komut satırı üzerinden aşağıdaki komutları çalıştırabilirsin
 
