@@ -16,8 +16,8 @@ export default class Application {
         return this.app.use([express.json(), express.urlencoded({ extended: false })]);
     }
 
-    private initializeRoutes(routes: any) : Express.Application {
-        return this.app.use('/', routes);
+    private initializeRoutes(routes: Router) : Express.Application {
+        return this.app.use(routes);
     }
 
     private initializeDatabase = async (): Promise<void> => {
