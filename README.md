@@ -1,26 +1,28 @@
-#Örnek REST Api uygulaması
+## Nodejs & Express & Sequelize & Typescript kullanarak oluşturulmuş bir REST API projesi.
 
-####Nodejs & Express & Sequelize(mysql) & Typescript kullanarak oluşturduğum örnek rest api projesi
-
-Terminal\komut satırı üzerinden aşağıdaki komutları çalıştırabilirsin
+Terminal / komut satırı üzerinden aşağıdaki komutlar çalıştırılabilir.
 
 ``
-yarn install or npm install
+yarn install | npm install
 ``
-gerekli paketlerin kurulumu için
+
+Projenin çalışması için gerekli paketlerin kurulmasına yarar.
 
 
 ``
 yarn dev
 ``
-localhost üzerinde çalışmak için
+
+Projeyi local alanda çalıştırmak için kullanılır.
 
 ``
 yarn build
 ``
-typescript'i javascript'e dönüştürmek için
+
+Projeyi Ecmascript'e dönüştürmek için kullanılır.
 
 ``
 yarn start
 ``
-dönüştürülen javascript projesini çalıştırmak için
+
+Ecmascript'e dönüştürülen projeyi çalıştırmaya yarar.
