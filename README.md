@@ -5,7 +5,7 @@
 Terminal\komut satırı üzerinden aşağıdaki komutları çalıştırabilirsin
 
 ``
-yarn install or npm install
+yarn install veya npm install
 ``
 gerekli paketlerin kurulumu için
 
