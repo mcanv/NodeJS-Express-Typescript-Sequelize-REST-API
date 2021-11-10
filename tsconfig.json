@@ -8,10 +8,6 @@
         "@types",
         "./node_modules/@types"
       ],
-      "rootDirs": [
-        "./",
-        "./env/.env.example"
-      ],
       "strict": true,
       "sourceMap": true,
       "esModuleInterop": true,
