@@ -29,7 +29,7 @@ export default class Application {
         }
     }
 
-    public listen(port: string | any, callback?: () => void) : Server {
+    public listen(port: string | number, callback?: () => void) : Server {
         return this.app.listen(port, callback);
     }
 }
