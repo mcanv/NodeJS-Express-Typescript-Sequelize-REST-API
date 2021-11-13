@@ -1,28 +1,26 @@
-## Nodejs & Express & Sequelize & Typescript kullanarak oluşturulmuş bir REST API projesi.
+## Example CRUD app with NodeJS, Express.js, Typescript, Sequelize(MySQL)
 
-Terminal / komut satırı üzerinden aşağıdaki komutlar çalıştırılabilir.
 
 ``
 yarn install | npm install
 ``
 
-Projenin çalışması için gerekli paketlerin kurulmasına yarar.
+Run this command for installing neccesary packages for app.
 
 
 ``
 yarn dev
 ``
 
-Projeyi local alanda çalıştırmak için kullanılır.
+Run app on local server.
 
 ``
 yarn build
 ``
 
-Projeyi Ecmascript'e dönüştürmek için kullanılır.
-
+Convert Typescript app to EcmaScript.
 ``
 yarn start
 ``
 
-Ecmascript'e dönüştürülen projeyi çalıştırmaya yarar.
+Run converted EcmaScript app on local server.
